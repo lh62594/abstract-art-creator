@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+  /* background-color: black; */
+}
+
+#canvas {
+  background-color: rgb(255, 74, 158);
+  margin-top: 10vh;
+  height: 80vh;
+  width: 80vw;
+}
